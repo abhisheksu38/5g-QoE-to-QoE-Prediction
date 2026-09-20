@@ -1,8 +1,10 @@
 # Data-Driven QoS-to-QoE Prediction for 5G Communication Networks
 
-## Live Demo
-
-[Open the 5G QoS-to-QoE Prediction Dashboard](https://5g-qoe-to-qoe-prediction-6hcmlzenuhe5rgqmxqb3h8.streamlit.app/)
+<p align="center">
+  <a href="https://5g-qoe-to-qoe-prediction-6hcmlzenuhe5rgqmxqb3h8.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%205G%20QoS--to--QoE%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Demo">
+  </a>
+</p>
 
 A machine learning based application that predicts Quality of Experience (QoE) from measured 5G Quality of Service (QoS) parameters and provides QoE forecasting and explainable AI analysis.
 
