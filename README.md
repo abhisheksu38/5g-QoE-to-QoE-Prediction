@@ -1,5 +1,9 @@
 # Data-Driven QoS-to-QoE Prediction for 5G Communication Networks
 
+## Live Demo
+
+[Open the 5G QoS-to-QoE Prediction Dashboard](https://5g-qoe-to-qoe-prediction-6hcmlzenuhe5rgqmxqb3h8.streamlit.app/)
+
 A machine learning based application that predicts Quality of Experience (QoE) from measured 5G Quality of Service (QoS) parameters and provides QoE forecasting and explainable AI analysis.
 
 ## Project Overview
